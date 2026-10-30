@@ -4,7 +4,7 @@
 Welcome to RattewDev Terminal, the ultimate all-in-one developer workspace designed to unlock the full potential of your device. Built for advanced power users, engineers, and mobile developers, DevPulse provides a seamless environment to test, code, and execute deep system-level tasks right from your handheld device. 🚀
 🔥 Key Features
 ⚡ Shizuku Integration First
- * Experience seamless system-level permissions without full device rooting. DevPulse connects natively via Shizuku to provide secure, elevated access directly out of the box.
+ * Experience seamless system-level permissions without full device rooting. RattewDev connects natively via Shizuku to provide secure, elevated access directly out of the box.
 💻 Advanced Built-in Terminal
  * Packed with a fully customizable, high-performance command-line interface. Run complex scripts, manage processes, and execute custom shell environments with ease.
 🐧 Native OS Booting & Emulation
