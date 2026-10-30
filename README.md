@@ -1,3 +1,4 @@
+<img width="268" height="188" alt="6726" src="https://github.com/user-attachments/assets/20bc602d-5743-47e1-b351-5f426dc52afb" />
 
 Welcome to DevPulse Terminal, the ultimate all-in-one developer workspace designed to unlock the full potential of your device. Built for advanced power users, engineers, and mobile developers, DevPulse provides a seamless environment to test, code, and execute deep system-level tasks right from your handheld device. 🚀
 🔥 Key Features
@@ -12,7 +13,5 @@ Welcome to DevPulse Terminal, the ultimate all-in-one developer workspace design
 🛡️ Comprehensive Root & System Verification
  * Integrated real-time root detector and permission analyzer. Instantly check system status, verify su binaries, and evaluate security environments before running intensive tasks.
 🛠️ Built for Developers, Driven by Power
-Whether you are debugging custom ROMs, compiling code on the go, or experimenting with elevated system tweaks, DevPulse Terminal gives you absolute control over your device hardware and software stack. 🌐⚡
-
-<img width="268" height="188" alt="6726" src="https://github.com/user-attachments/assets/20bc602d-5743-47e1-b351-5f426dc52afb" />
+Whether you are debugging custom ROMs, compiling code on the go, or experimenting with elevated system tweaks, DevPulse Terminal gives you absolute control over your device hardware and software 
 
