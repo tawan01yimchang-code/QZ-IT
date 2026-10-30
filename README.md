@@ -1,4 +1,5 @@
-<img width="268" height="188" alt="6726" src="https://github.com/user-attachments/assets/20bc602d-5743-47e1-b351-5f426dc52afb" />
+<img width="1456" height="1441" alt="6728" src="https://github.com/user-attachments/assets/6d276264-8868-45cc-b376-71154fd680ca" />
+
 
 Welcome to DevPulse Terminal, the ultimate all-in-one developer workspace designed to unlock the full potential of your device. Built for advanced power users, engineers, and mobile developers, DevPulse provides a seamless environment to test, code, and execute deep system-level tasks right from your handheld device. 🚀
 🔥 Key Features
