@@ -1,3 +1,7 @@
+<img width="800" height="1340" alt="6720" src="https://github.com/user-attachments/assets/c624e508-6d32-4ae3-80d9-2ba536dcbb4b" />
+<img width="800" height="1340" alt="6726" src="https://github.com/user-attachments/assets/ed02efb4-bbf5-4c2c-b953-6a0bd03e68b5" />
+<img width="800" height="1340" alt="6722" src="https://github.com/user-attachments/assets/1750aad7-10d0-4b9c-87bf-c7cb04a87d49" />
+<img width="800" height="1340" alt="6724" src="https://github.com/user-attachments/assets/538bc9ed-d4b3-46d8-aa06-0756d074c2a3" />
 Welcome to DevPulse Terminal, the ultimate all-in-one developer workspace designed to unlock the full potential of your device. Built for advanced power users, engineers, and mobile developers, DevPulse provides a seamless environment to test, code, and execute deep system-level tasks right from your handheld device. 🚀
 🔥 Key Features
 ⚡ Shizuku Integration First
