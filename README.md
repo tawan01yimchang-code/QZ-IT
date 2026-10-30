@@ -14,3 +14,5 @@ Welcome to DevPulse Terminal, the ultimate all-in-one developer workspace design
 🛠️ Built for Developers, Driven by Power
 Whether you are debugging custom ROMs, compiling code on the go, or experimenting with elevated system tweaks, DevPulse Terminal gives you absolute control over your device hardware and software stack. 🌐⚡
 
+<img width="268" height="188" alt="6726" src="https://github.com/user-attachments/assets/20bc602d-5743-47e1-b351-5f426dc52afb" />
+
