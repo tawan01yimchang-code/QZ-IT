@@ -1,7 +1,7 @@
 <img width="1232" height="864" alt="6731" src="https://github.com/user-attachments/assets/6f8e8de5-4537-4483-90b8-170bbd67d670" />
 
 
-Welcome to RattewDev Terminal, the ultimate all-in-one developer workspace designed to unlock the full potential of your device. Built for advanced power users, engineers, and mobile developers, RattewDev provides a seamless environment to test, code, and execute deep system-level tasks right from your handheld device. 🚀
+Welcome to RattewDev, the ultimate all-in-one developer workspace designed to unlock the full potential of your device. Built for advanced power users, engineers, and mobile developers, RattewDev provides a seamless environment to test, code, and execute deep system-level tasks right from your handheld device. 🚀
 🔥 Key Features
 ⚡ Shizuku Integration First
  * Experience seamless system-level permissions without full device rooting. RattewDev connects natively via Shizuku to provide secure, elevated access directly out of the box.
